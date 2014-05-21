@@ -1,5 +1,6 @@
 popcorn-artworks
 ================
 
-Thanks to @kingflurkel for his works !
+Thanks to @kingflurkel and @tomgantzer for their works!
+
 Feel free to contribute !
